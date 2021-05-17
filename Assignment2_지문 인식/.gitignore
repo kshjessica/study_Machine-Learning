@@ -27,7 +27,7 @@ ipython_config.py
 [Ll]ocal
 [Ss]cripts
 pyvenv.cfg
-.venv
+.venv/*
 pip-selfcheck.json
 
 ### VisualStudioCode ###
