@@ -28,6 +28,7 @@ ipython_config.py
 [Ss]cripts
 pyvenv.cfg
 .venv
+venv
 pip-selfcheck.json
 
 ### VisualStudioCode ###
