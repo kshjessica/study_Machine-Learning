@@ -30,9 +30,7 @@ venv
 pip-selfcheck.json
 
 ### VisualStudioCode ###
-# not working(why)
 .vscode/*
-vscode
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
