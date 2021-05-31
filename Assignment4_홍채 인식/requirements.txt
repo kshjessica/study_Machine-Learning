@@ -1,8 +1,5 @@
-opencv-python
-pillow
-scipy
-tensorflow
-gzip
-matplotlib
-pandas
-gzip
+pip install opencv-python
+pip install pandas
+pip install tensorflow
+pip install matplotlib
+pip install sklearn
