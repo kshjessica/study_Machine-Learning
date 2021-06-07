@@ -1,0 +1,6 @@
+pip install opencv-python
+pip install pandas
+pip install tensorflow
+pip install matplotlib
+pip install sklearn
+pip install jupyter
